@@ -1,2 +1,3 @@
 # vue-col-resize
-directive
+
+> directive of column resize
