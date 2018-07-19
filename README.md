@@ -1,0 +1,2 @@
+# vue-col-resize
+directive
